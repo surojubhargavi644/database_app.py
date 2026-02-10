@@ -3,7 +3,7 @@
 ##  Project Overview
 This project demonstrates how to perform basic database operations using SQLite in Python. It includes creating tables, inserting records, fetching data, updating records, and deleting records securely using parameterized queries.
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - Python
 - sqlite3 module (built-in)
 - VS Code
